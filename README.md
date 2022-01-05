@@ -2,7 +2,7 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jsjunior&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjunior&count_private=truea&layout=compact&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjunior&layout=compact&theme=radical">
 </div>
 <!--
 **jsjunior/jsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
